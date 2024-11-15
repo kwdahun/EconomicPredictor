@@ -1,0 +1,2 @@
+# EconomicPredictor
+This project uses a DQN with LSTM for stock trading simulation, training an agent to buy, sell, or hold using technical indicators like RSI and moving averages. It includes features like experience replay, epsilon-greedy exploration, and trade visualization.
